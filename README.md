@@ -1,1 +1,0 @@
-# Arkkadia overcoming
