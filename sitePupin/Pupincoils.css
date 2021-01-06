@@ -1,0 +1,48 @@
+
+hr{
+    border-bottom:1px solid green;
+}
+
+a{
+    margin-right:15px ;
+}
+
+body{
+    width: 960px;
+    margin: 15px auto;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, sans-serif;
+}
+
+nav{
+    padding: 15px 10px 15px 10px;
+    font-size: 20px;
+}
+
+h1{
+   color: rgb(25, 8, 66);
+   margin: 40px 40px 20px 40px;
+  
+}
+
+aside{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+    margin: 0 10px  5px 10px;  
+}
+
+figure{
+    margin: 20px;
+}
+
+section{
+    display: inline-block;
+    width: 400px;
+    margin:20px 40px 20px 40px ;
+}
+
+     
+   
+   
+    
